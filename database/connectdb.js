@@ -4,6 +4,6 @@ try {
     console.log("Base de Datos conectada")
     
 } catch (error) {
-    console.log("OOps algo va mal")
+    console.log("OOps algo va mal" + error)
     
 }
